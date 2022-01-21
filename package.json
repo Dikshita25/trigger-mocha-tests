@@ -1,0 +1,20 @@
+{
+  "name": "trigger-mocha-tests",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "author": "Dikshita Shirodkar <dikshitashirodkar25@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "mocha",
+    "xml",
+    "parallel",
+    "javascript",
+    "async",
+    "programmatically"
+  ],
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.4"
+  }
+}
