@@ -18,7 +18,7 @@ npm install trigger-mocha-tests --save
 
 **Note:Specifying the testFiles is optional, if not specified will pick all the files under the test folder**
 
-```index.js
+```
 const triggerMochaTest = require("trigger-mocha-tests");
 
 const config = {
@@ -29,10 +29,10 @@ const config = {
 
 triggerMochaTest(config);
 ```
-3. Finally, run the `index.js` file
+3. Finally, run your tests with the below command
 
 ```
-node index.js
+node <fileName>
 ```
 
 ### Output 

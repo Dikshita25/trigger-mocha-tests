@@ -1,10 +1,14 @@
 {
   "name": "trigger-mocha-tests",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "author": "Dikshita Shirodkar <dikshitashirodkar25@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dikshita25/trigger-mocha-tests.git"
+  },
   "keywords": [
     "mocha",
     "xml",
